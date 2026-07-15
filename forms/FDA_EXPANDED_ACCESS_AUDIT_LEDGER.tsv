@@ -1,0 +1,5 @@
+Audit_Field_ID	Federal_Regulation	Required_Parameter	Verification_Source	Regulatory_Retention_Period
+IND_EA_02	21 CFR 312.310	Individual Patient Expanded Access IRB Non-Monograph Authorization	IRB_Binder_Sec_2	5 Years Post-Trial
+LOT_OPC_90	21 CFR 211.130	Raw Certificate of Analysis (CoA) & 90% OPC Sourcing Method	docs/COA_PEFKON_LOT_001.md	7 Years Post-Expiry
+LOT_EGCG_50	21 CFR 211.130	Camellia sinensis High-Purity Minimum 50% EGCG Verification	docs/COA_PEFKON_LOT_001.md	7 Years Post-Expiry
+CL_ENV_35	21 CFR 211.142	Compounding Atmospheric Moisture Regulation Log (<35% RH)	Mfg_Log_Sheet_E	5 Years Post-Batch
