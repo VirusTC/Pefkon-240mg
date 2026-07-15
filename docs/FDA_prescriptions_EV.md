@@ -4,7 +4,7 @@ While standard vasodilation in healthy tissue simply augments metabolic flow, op
 
 * * * * *
 
-🫖 1. Tumor Vessel Normalization vs. Pathological Angiogenesis
+1. Tumor Vessel Normalization vs. Pathological Angiogenesis
 --------------------------------------------------------------
 
 In malignant oncology, tumors rapidly secrete high concentrations of Vascular Endothelial Growth Factor (VEGF). This drives chaotic, dysregulated angiogenesis, resulting in twisted, leaky capillaries that lack a functional smooth muscle lining and proper endothelial tight junctions. This structural defect creates an elevated Interstitial Fluid Pressure (IFP) core, which physically blocks standard chemotherapy or immunotherapies from filtering into the center of the tumor.
@@ -49,7 +49,7 @@ By decreasing vascular hyper-permeability ($L_p$) and organizing upstream capill
 
 * * * * *
 
-🔋 2. Reversing Hypoxia-Induced Chemo-Resistance
+2. Reversing Hypoxia-Induced Chemo-Resistance
 ------------------------------------------------
 
 Tumor hypoxia (oxygen starvation) is a major driver of cancer cell survival and treatment resistance. Hypoxic cancer cells upregulate HIF-1α (Hypoxia-Inducible Factor 1-Alpha), a master transcription factor that turns on genes for drug-efflux pumps, metabolic reprogramming, and tissue invasion.
@@ -76,7 +76,7 @@ Destroying HIF-1α eliminates the cell's survival advantage, downregulates P-gly
 
 * * * * *
 
-🛡️ 3. Halting Pathological Tissue Invasion (MMP Inhibition)
+3. Halting Pathological Tissue Invasion (MMP Inhibition)
 ------------------------------------------------------------
 
 To metastasize and spread, cancer cells must break through the surrounding extracellular matrix (ECM) and vascular basement membranes. They achieve this by secreting high levels of zinc-dependent endopeptidases, specifically Matrix Metalloproteinase-2 (MMP-2) and Matrix Metalloproteinase-9 (MMP-9).
@@ -101,7 +101,7 @@ By driving $v \rightarrow 0$, the matrix reinforces local tissue borders, keepin
 
 * * * * *
 
-🏛️ Verified Public Institutional Sourcing & References
+Verified Public Institutional Sourcing & References
 -------------------------------------------------------
 
 1.  Vessel Normalization & Interstitial Fluid Dynamics: Comprehensive oncology modeling from Harvard Medical School / Mass General Hospital (site:edu) and the National Cancer Institute (site:gov) establishes that normalizing tumor microcirculation lowers interstitial fluid pressure to enhance drug delivery.
@@ -110,7 +110,7 @@ By driving $v \rightarrow 0$, the matrix reinforces local tissue borders, keepin
 
 * * * * *
 
-📋 Medical Disclaimer
+Medical Disclaimer
 ---------------------
 
 *The pathological mechanisms, biophysical flow equations, and oncological models detailed here are provided strictly for educational context, historical database indexing, and computational repository reference. They describe general laboratory and clinical oncology concepts found in peer-reviewed literature. This data does not constitute medical diagnostics, clinical treatment guidelines, or personalized oncology advice.*
