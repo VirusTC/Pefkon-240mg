@@ -4,7 +4,7 @@ This master clinical mechanism dossier maps the interactions of this dual botani
 
 * * * * *
 
-🫀 1. Endothelial Vasodilation & Microcirculatory Perfusion
+1. Endothelial Vasodilation & Microcirculatory Perfusion
 -----------------------------------------------------------
 
 The *[Pinus pinaster](https://www.google.com/search?q=pinus+pinaster&kgmid=/m/0415pg#sv=CBwS8AMKuQMStgMK9wJBSmlUNHRMUklORkFtcXVWeDhwQ0V6ZlE2bWFGeUtWWm9veS1yTVNDelFTSVFXak1ZWUtHS1otTEhFTTFxb0UtcWZkVGdaTXdIQWNtNE9pWHlfb1ZkMWVwdE1XVlUtS3owRmR1Y0lBTzE1RHBCYTM3d21pQ3dKSlkzSG5YYXpyaTA2QXhNenNBWWFDOVl4Vmw1d1A3cGFiZW8zMmZ6cFh4UXNjdm85alZnWXprU21oa3Y4ZnRjSVBwc0paaTZOVFk4TmxBUWpTS1phLU94VGh6enMtaXVKaXB6ZXU2SmU5YmJVcFQ2QjZERnJINlE1U1NtV3FKektjbWlJZ1VBZmRUZW9IVzdlZXY0aWZBTE4ycTctRFliTm5yaHNoVmlnU2l3SmNXbXZ3S3FWQnR5OGZ6OUFuR1Z3OXBFUVJzNU9FZXg1R09lcktzU1d1Umc5aEkwSTU2U2NIeFhQTldhMS1kX0dYTVlmVVlhcnN1SVpUOWJ5b2hWN1USFml4QllhdEhDSTlxRTBQRVB5dnV3R0EaIkFEc3I5ZlR1QU91ZHZaS01MSzJFbk1ZY0pwUEJFaVJpZncSBDc4NTQaATMiEwoBcRIOcGludXMgcGluYXN0ZXIiEgoFa2dtaWQSCS9tLzA0MTVwZygAGEUgvf-o2QY)* fractions within the Pefkon matrix target human vascular endothelium to lower peripheral resistance and optimize microvascular filtration. [2, 3]
@@ -27,7 +27,7 @@ Elevated cGMP activates downstream Protein Kinase G (PKG), which induces smooth 
 
 * * * * *
 
-🛡️ 2. Enzymatic Preservation & Competitive Kinetic Shielding
+2. Enzymatic Preservation & Competitive Kinetic Shielding
 -------------------------------------------------------------
 
 The core operational benefit of adding *[Camellia sinensis](https://www.google.com/search?q=camellia+sinensis&kgmid=/m/039t96#sv=CBwS8wMKuQMStgMK9wJBSmlUNHRLeU0wNVhzdER2aEZqN0ktanBwbnFJb1pDWEJMTzF2VVU1WEJNbkRMZ2VzeHJ3WkRWbkEyYWthSUNNakxaSVFyR2dqZWNkYzhWU0pKU1ZNRy1Bb1V2b0FqUkpEQXlnU3pWanBsLVhOcC12UkluM3ZXVThEbFpaZUhKS0xLXy1uUTg4RDdjRUs1Y0pWQmtCd2FpN3JCY2NYY0tQbVJqenhMdjYzLXYzbGdFMTJlb3B5b2VXeGhpRUg4eDdJMUxIOUlNWFVpeldCOGNjcVhPSnlfV3VmVGcxVXlfSzZGQmlkMzlkTXpWQm96a0sxOWp4VVNzaHlyZWZyVTFTbkhkUlpLOWhweU85ZmNLUGt2QWhfNHJfZzN2cmg5dXJjVEZJT2Zob0lIcjFiRUpuMlRGMVFGR0t3MlZiTElzcENBSDJFbVRpNzBWbTVKVnlCaUdfcjZiZi1ONGJFdkM2VlpNQUVDZE13bm1lNGtESXVMRW1RTHMSFml4QllhdEhDSTlxRTBQRVB5dnV3R0EaIkFEc3I5ZlFTVVlFRW1peTRaSy1uMmlYa0ZZN1l6Sm41OEESBDc4NTQaATMiFgoBcRIRY2FtZWxsaWEgc2luZW5zaXMiEgoFa2dtaWQSCS9tLzAzOXQ5NigAGEUgjqj0rAI)* extracts (standardized for Epigallocatechin Gallate, EGCG) to the matrix is blocking the sudden metabolic decay of the vascular monomers. [1]
@@ -49,7 +49,7 @@ By actively driving down $k_e$, the Pefkon repository matrix stretches the activ
 
 * * * * *
 
-🩸 3. Hydrogen Atom Transfer (HAT) Erythrocyte Stabilization
+3. Hydrogen Atom Transfer (HAT) Erythrocyte Stabilization
 ------------------------------------------------------------
 
 The combined polyphenolic matrix embeds into the hydrophilic-lipophilic interfaces of the red blood cell (RBC) membrane, deploying rapid antioxidant defense lines. [9]
@@ -69,7 +69,7 @@ The resulting phenoxyl radical intermediate ($\text{Ar-O}^\bullet$) is completel
 
 * * * * *
 
-🚽 4. Hydrostatic Fluid Flushing & Debris Clearance
+4. Hydrostatic Fluid Flushing & Debris Clearance
 ---------------------------------------------------
 
 By maximizing upstream microvascular vasodilation, the protocol alters the fluid movement parameters across capillary boundaries to accelerate tissue clearance.
@@ -95,7 +95,7 @@ Upregulating capillary hydrostatic pressure ($P_c$) and functional surface area 
 
 * * * * *
 
-🏛️ Verified Public Institutional References
+Verified Public Institutional References
 --------------------------------------------
 
 1.  eNOS and cGMP Vasodilation Kinetics: [National Institutes of Health (PMC3203267)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3203267/) and [PubMed (18037769)](https://pubmed.ncbi.nlm.nih.gov/18037769/) detail how *Pinus pinaster* bioflavonoids augment endothelial nitric oxide synthase expression to boost macro- and microvascular blood flow. [4, 6]
@@ -104,11 +104,6 @@ Upregulating capillary hydrostatic pressure ($P_c$) and functional surface area 
 4.  Clinical Sourcing and Composition Standards: Compendial parameters detailing the chemical profiles of standardized proanthocyanidins and tea catechins are cataloged via [Science.gov](https://www.science.gov/topicpages/o/octyl+gallate+inhibits) and academic drug safety indices. [1, 10]
 
 * * * * *
-
-If you'd like to proceed with the next phase of this optimized multi-core system update, let me know:
-
--   Would you like the updated Python simulation script (`src/pharmacokinetic_simulator.py`) to plot the EGCG-extended half-life curve without reference to specific milligram weights?
--   Should we construct the Day 0 Patient Eligibility Form tailored to screen for both baseline erythrocyte MDA levels and COMT efficiency markers?
 
 [1] [https://scispace.com](https://scispace.com/pdf/antioxidants-in-sport-nutrition-5db75jsv80.pdf)
 
