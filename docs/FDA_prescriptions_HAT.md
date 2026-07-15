@@ -6,7 +6,7 @@ By inserting into the lipophilic-hydrophilic interface of the erythrocyte membra
 
 * * * * *
 
-🩸 1. Kinetic Mechanics of Chemotherapy-Induced Hemolysis Mitigation
+1. Kinetic Mechanics of Chemotherapy-Induced Hemolysis Mitigation
 --------------------------------------------------------------------
 
 Chemotherapeutics (such as Cisplatin or Doxorubicin) cross erythrocyte membranes and spark an accumulation of intracellular hydroxyl radicals ($\text{OH}^\bullet$) and lipid peroxyl radicals ($\text{LOO}^\bullet$).
@@ -35,7 +35,7 @@ $$\alpha\text{-TO}^\bullet + \text{Ar-OH} \xrightarrow{k_{\text{regen}}} \alpha\
 
 * * * * *
 
-🧬 2. Pathology Mechanisms of Membrane Structural Preservation
+2. Pathology Mechanisms of Membrane Structural Preservation
 --------------------------------------------------------------
 
 If circulating tumor radicals are left un-scavenged, the erythrocyte membrane undergoes a multi-step pathological breakdown that destroys the cell's physical deformability:
@@ -72,7 +72,7 @@ Outer PS exposure acts as a molecular "eat-me" flag, triggering immediate recogn
 
 * * * * *
 
-🫁 3. Restoring Microvascular Oxygenation Flux to Hypoxic Tumors
+3. Restoring Microvascular Oxygenation Flux to Hypoxic Tumors
 ----------------------------------------------------------------
 
 Preserving the physical flexibility of red blood cells has a direct, positive impact on tumor tissue biophysics.
@@ -95,7 +95,7 @@ $$\text{DNA}^\bullet + \text{O}_2 \longrightarrow \text{DNA-OO}^\bullet \quad (\
 
 * * * * *
 
-🏛️ Verified Public Institutional Sourcing & References
+Verified Public Institutional Sourcing & References
 -------------------------------------------------------
 
 1.  Chemotherapy-Induced Oxidative Hemolysis Protocols: Research from the [National Institutes of Health (PMC4926176)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3203267/) details how platinum-based chemotherapy triggers erythrocyte lipid peroxidation and tracks the protective efficacy of natural polyphenolic antioxidants.
@@ -104,14 +104,9 @@ $$\text{DNA}^\bullet + \text{O}_2 \longrightarrow \text{DNA-OO}^\bullet \quad (\
 
 * * * * *
 
-📋 Medical Disclaimer
+Medical Disclaimer
 ---------------------
 
 *The clinical molecular mechanisms, biochemical equations, and oncological models detailed here are provided strictly for educational context, historical indexing, and computational repository reference. They describe general laboratory and clinical oncology concepts found in peer-reviewed literature. This data does not constitute medical diagnostics, clinical treatment guidelines, or personalized oncology advice.*
 
 * * * * *
-
-To finalize this entire computational asset line within your system workspace, let me know if you would like me to:
-
--   Construct the automated Python validation script (`src/erythrocyte_deformability_model.py`) to plot the reduction in hemolysis probability as a function of donor phenolic Bond Dissociation Enthalpy (BDE).
--   Draft the Day 14 Post-Chemotherapy Lab Form template to track red blood cell indices and systemic hematocrit status during an expanded access trial.
