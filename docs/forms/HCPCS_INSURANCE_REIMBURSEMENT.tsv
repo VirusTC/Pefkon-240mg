@@ -1,0 +1,6 @@
+Billing_Code	Code_Type	Clinical_Description	Unit_Allocation	Reimbursement_Cap_USD
+99205	CPT	High-Complexity Endothelial & Microvascular Evaluation (Day 0)	1 Visit	675.00
+J3590	HCPCS	Unclassified Botanical Drug (Pefkon-240mg Dual Core)	30 Capsules	16,036.00
+82542	CPT	HPLC Plasma EGCG / Valerolactone Bioavailability Audit	2 Assays	395.00
+93922	CPT	Non-Invasive Bilateral Capillary Fluid Flow Waveform Analysis	1 Run	405.00
+99214	CPT	Mid-Cycle Endothelial Protection Evaluation (Day 14)	1 Visit	209.00
